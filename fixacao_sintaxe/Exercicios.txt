@@ -1,0 +1,36 @@
+Exercícios da apostila "Java e Orientação a Objetos" - Caelum.
+
+3.13 Exercícios: Fixação de Sintaxe:
+
+1. Imprima todos os números de 150 a 300. (check)
+2. Imprima a soma de 1 até 1000. (check)
+3. Imprima todos os múltiplos de 3, entre 1 e 100. (check)
+4. Imprima os fatoriais de 1 a 10. (check)
+5.No código do exercício anterior, aumente a quantidade de números que terão os fatoriais impressos
+até 20, 30 e 40. Em um determinado momento, além de esse cálculo demorar, começará a mostrar
+respostas completamente erradas. Por quê? (check)
+6. (Opcional) Imprima os primeiros números da série de Fibonacci até passar de 100. A série de
+Fibonacci é a seguinte: 0, 1, 1, 2, 3, 5, 8, 13, 21, etc. Para calculá-la, o primeiro elemento vale 0, o
+segundo vale 1, e daí por diante. O n-ésimo elemento vale o (n-1)-ésimo elemento somado ao (n-2)-
+ésimo elemento (ex: 8 = 5 + 3). (check)
+7. (Opcional) Escreva um programa em que, dada uma variável x com algum valor inteiro, temos um
+novo x de acordo com a seguinte regra:
+Se x é par, x = x / 2 ;
+Se x é impar, x = 3 * x + 1 ;
+Imprime x ;
+O programa deve parar quando x tiver o valor final de 1. Por exemplo, para x = 13 , a saída
+será:
+40 -> 20 -> 10 -> 5 -> 16 -> 8 -> 4 -> 2 -> 1
+8. (Opcional) Imprima a seguinte tabela usando for s encadeados:
+1
+2
+3
+4
+n
+4
+6 9
+8 12 16
+n*2 n*3 .... n*n
+
+3.14 DESAFIOS: FIBONACCI
+1. Faça o exercício da série de Fibonacci usando apenas duas variáveis. (check)
